@@ -1,0 +1,10 @@
+transformers
+accelerate
+diffusers
+imageio-ffmpeg
+torch
+sentencepiece
+opencv-python
+imageio
+imageio-ffmpeg
+boto3
